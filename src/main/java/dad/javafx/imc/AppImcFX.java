@@ -77,9 +77,9 @@ public class AppImcFX extends Application {
 		root.setAlignment(Pos.CENTER);
 		root.getChildren().addAll(pesoBox, alturaBox, imcBox, infBox);
 
-		Scene escena = new Scene(root, 320, 200);
+		Scene scene = new Scene(root, 320, 200);
 		
-		primaryStage.setScene(escena);
+		primaryStage.setScene(scene);
 		primaryStage.setTitle("IMC");
 		primaryStage.show();
 		
