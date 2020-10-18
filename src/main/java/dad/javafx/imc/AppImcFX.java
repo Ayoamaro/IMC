@@ -29,9 +29,11 @@ public class AppImcFX extends Application {
 	@Override
 	public void start(Stage primaryStage) throws Exception {
 
+		// Input del peso
 		pesoIntroducido = new TextField();
 		pesoIntroducido.setPrefColumnCount(4);
 		
+		// Input de la altura
 		alturaIntroducido = new TextField();
 		alturaIntroducido.setPrefColumnCount(4);
 
