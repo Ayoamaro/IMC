@@ -4,11 +4,11 @@ Implementar una aplicación en JavaFX que permita calcular el IMC (Índice de Ma
 
 El aspecto de la interfaz será el siguiente:
 
-![https://github.com/Ayoamaro/IMC/blob/main/docs/images/imc.png?raw=true]()
+![](https://github.com/Ayoamaro/IMC/blob/main/docs/images/imc.png?raw=true)
 
 La fórmula para calcular el IMC es la siguiente:
 
-![https://github.com/Ayoamaro/IMC/blob/main/docs/images/formula-imc.png?raw=true]()
+![](https://github.com/Ayoamaro/IMC/blob/main/docs/images/formula-imc.png?raw=true)
 
 La clasificación según el IMC es la siguiente:
 
@@ -19,8 +19,8 @@ La clasificación según el IMC es la siguiente:
 
 Un ejemplo de uso de la aplicación:
 
-![https://github.com/Ayoamaro/IMC/blob/main/docs/images/imc2.png?raw=true]()
+![](https://github.com/Ayoamaro/IMC/blob/main/docs/images/imc2.png?raw=true)
 
 Orientación para la implementación de la interfaz:
 
-![https://github.com/Ayoamaro/IMC/blob/main/docs/images/paneles.png?raw=true]()
+![](https://github.com/Ayoamaro/IMC/blob/main/docs/images/paneles.png?raw=true)
